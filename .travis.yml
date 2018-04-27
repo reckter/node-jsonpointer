@@ -1,6 +1,7 @@
 language: "node_js"
 node_js:
   # keep latest first, so gk-lockfile can work its magic
+  - 10
   # https://github.com/greenkeeperio/greenkeeper-lockfile#testing-multiple-node-versions
   - 8.0
   - 6.0
